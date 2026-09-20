@@ -1,6 +1,6 @@
 # JARVIS Personal AI Assistant
 
-![HireFlow Dashboard](screenshots/dashboard.png)
+![HireFlow Dashboard](https://github.com/Virendraa-18/JARVIS-Style-Personal-AI-Assistant/blob/main/Screenshot%202026-09-20%20211536.png)
 
 > **A real-time AI assistant that can hear, see, understand, remember, and control your computer.**
 
